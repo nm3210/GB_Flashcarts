@@ -35,7 +35,8 @@
       (layer "B.SilkS" (type "Bottom Silk Screen"))
       (dielectric_constraints no)
     )
-    (pad_to_mask_clearance 0.05)
+    (pad_to_mask_clearance 0.0508)
+    (solder_mask_min_width 0.101)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
       (disableapertmacros false)
