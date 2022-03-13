@@ -36,4 +36,4 @@ Heavily inspired by [**HDR**](https://martinrefseth.com/)'s [updated MBC3](https
 | C# | 100nF Capacitor 0603 |
 
 ### Changelog
-\- **v1** around 2022-03-12: first Release, hoping for the best
+\- **v1** around 2022-03-12: First release, hoping for the best
