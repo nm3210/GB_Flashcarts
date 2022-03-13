@@ -5,8 +5,8 @@
 ## MBC5 Short
 *Uploaded to OshPark: https://oshpark.com/shared_projects/VMSFCe2c*
 
-<img src="https://user-images.githubusercontent.com/2113065/158044971-642bab8c-a5e2-40cb-a73b-bde5c176bbb7.png" alt="MBC5 Short Front in OshPark purple" width="480"/>&nbsp;<img src="https://user-images.githubusercontent.com/2113065/158044974-2df0d466-08ab-4a5f-8450-73d3070ace09.png" alt="MBC5 Short Back in OshPark purple" width="480"/>
-<img src="https://user-images.githubusercontent.com/2113065/158045170-bcb606c9-b4c9-4cf6-bc19-46a3bfe7e261.png" alt="MBC5 Short Front" width="480"/>&nbsp;<img src="https://user-images.githubusercontent.com/2113065/158045176-9c16197f-b99c-41db-aebe-6c0d9a05409c.png" alt="MBC5 Short Back" width="480"/>
+<img src="https://user-images.githubusercontent.com/2113065/158044971-642bab8c-a5e2-40cb-a73b-bde5c176bbb7.png" alt="MBC5 Short Front in OshPark purple" width="360"/>&nbsp;<img src="https://user-images.githubusercontent.com/2113065/158044974-2df0d466-08ab-4a5f-8450-73d3070ace09.png" alt="MBC5 Short Back in OshPark purple" width="360"/>
+<img src="https://user-images.githubusercontent.com/2113065/158045170-bcb606c9-b4c9-4cf6-bc19-46a3bfe7e261.png" alt="MBC5 Short Front" width="360"/>&nbsp;<img src="https://user-images.githubusercontent.com/2113065/158045176-9c16197f-b99c-41db-aebe-6c0d9a05409c.png" alt="MBC5 Short Back" width="360"/>
 
 
 This is my first try at routing the short version of an MBC5 flashcart, there certainly wasn't a lot of room!
