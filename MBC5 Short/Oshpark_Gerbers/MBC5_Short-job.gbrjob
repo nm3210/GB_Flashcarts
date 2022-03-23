@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "(6.0.2)"
     },
-    "CreationDate": "2022-03-12T15:23:27-05:00"
+    "CreationDate": "2022-03-22T22:46:25-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -19,7 +19,7 @@
     },
     "LayerNumber": 2,
     "BoardThickness": 0.955,
-    "Finish": "ENIG"
+    "Finish": "None"
   },
   "DesignRules": [
     {
@@ -34,21 +34,6 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "MBC5_Short-B_Cu.gbr",
-      "FileFunction": "Copper,L2,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "MBC5_Short-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "MBC5_Short-B_Silks.gbr",
-      "FileFunction": "Legend,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "MBC5_Short-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
@@ -57,7 +42,6 @@
   "MaterialStackup": [
     {
       "Type": "Legend",
-      "Color": "R240G240B240",
       "Name": "Top Silk Screen"
     },
     {
@@ -66,7 +50,6 @@
     },
     {
       "Type": "SolderMask",
-      "Color": "R37G10B59",
       "Thickness": 0.0254,
       "Name": "Top Solder Mask"
     },
@@ -89,7 +72,6 @@
     },
     {
       "Type": "SolderMask",
-      "Color": "R37G10B59",
       "Thickness": 0.0254,
       "Name": "Bottom Solder Mask"
     },
@@ -99,7 +81,6 @@
     },
     {
       "Type": "Legend",
-      "Color": "White",
       "Name": "Bottom Silk Screen"
     }
   ]

@@ -3,13 +3,13 @@
 
 
 ## MBC5 Short
-*Uploaded to OshPark: https://oshpark.com/shared_projects/VMSFCe2c*
+*Uploaded to OshPark: https://oshpark.com/shared_projects/A7b5nxHa*
 
-<img src="https://user-images.githubusercontent.com/2113065/158044971-642bab8c-a5e2-40cb-a73b-bde5c176bbb7.png" alt="MBC5 Short Front in OshPark purple" width="360"/>&nbsp;<img src="https://user-images.githubusercontent.com/2113065/158044974-2df0d466-08ab-4a5f-8450-73d3070ace09.png" alt="MBC5 Short Back in OshPark purple" width="360"/>
-<img src="https://user-images.githubusercontent.com/2113065/158045170-bcb606c9-b4c9-4cf6-bc19-46a3bfe7e261.png" alt="MBC5 Short Front" width="360"/>&nbsp;<img src="https://user-images.githubusercontent.com/2113065/158045176-9c16197f-b99c-41db-aebe-6c0d9a05409c.png" alt="MBC5 Short Back" width="360"/>
+<img src="https://user-images.githubusercontent.com/2113065/159615189-64461b1b-f70a-46da-9f52-4699a35c1efe.png" alt="MBC5 Short Front in OshPark purple" width="360"/>&nbsp;<img src="https://user-images.githubusercontent.com/2113065/159615222-3ad6ad72-fb26-4137-be25-13f126ffcdeb.png" alt="MBC5 Short Back in OshPark purple" width="360"/>
+<img src="https://user-images.githubusercontent.com/2113065/159615274-b4972128-583c-490e-995e-d71893d6eb7a.png" alt="MBC5 Short Front" width="360"/>&nbsp;<img src="https://user-images.githubusercontent.com/2113065/159615323-2b9672dc-95f1-4c90-b3b0-87fdc9c38b1a.png" alt="MBC5 Short Back" width="360"/>
 
 
-This is my first try at routing the short version of an MBC5 flashcart, there certainly wasn't a lot of room!
+This is my first try (plus updates) at routing the short version of an MBC5 flashcart, there certainly wasn't a lot of room!
 
 Heavily inspired by [**HDR**](https://martinrefseth.com/)'s [updated MBC3](https://oshpark.com/shared_projects/YCtVNv4A) cart with clean borders and neat original/OEM features like the production date squares and (totally unnecessary) fiducial markings, as well as his own older [short MBC5 cart](https://oshpark.com/shared_projects/IOwfD0lC).
 
@@ -30,10 +30,20 @@ Heavily inspired by [**HDR**](https://martinrefseth.com/)'s [updated MBC3](https
 
 | Reference | Part |
 | :-- | :--: |
-| U1 | TSOP-**40** (not 48) MBM29F033C-90PTN, or similar |
+| U1 | TSOP-40/TSOP-48 MBM29F033C-90PTN, AM29F016B-90EC, or similar |
 | U2 | MBC5 (from donor cart?) |
 | U3 | 28-pin SOIC FM18W08 |
 | C# | 100nF Capacitor 0603 |
 
 ### Changelog
-\- **v1** around 2022-03-12: First release, hoping for the best
+\- **v1** around 2022-03-12
+
+&emsp;First release, hoping for the best
+
+\- **v2** around 2022-03-22
+
+&emsp;Change from TSOP-40 to TSOP-48 to allow for more chip variants (including ones I bought of course)
+
+&emsp;Fixed **wrong corner** marker on U1 (from lower-left to upper-right, specifically: the side with the **W**rite**E**nable pin should be facing south)
+
+&emsp;Minor routing updates/cleanup
